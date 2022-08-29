@@ -1,2 +1,2 @@
 # Bound-Service
-This code for generating random number using bound service.
+This code is for generating random number using bound service.
